@@ -20,4 +20,4 @@ ITMO practice course
 https://docs.google.com/spreadsheets/d/1K45Hrr3hAPtBvtdRnDXMV9NgRklXNdicz9WxE4VpS7Y/edit?usp=sharing
 
 результирующее видео с распознаванием
-https://drive.google.com/file/d/1a1HWj1I-0ENz8hxQ8_dC8aI9VXAcV9ke/view?usp=sharing
+https://disk.yandex.ru/i/5CdQyfRJXVj70g
