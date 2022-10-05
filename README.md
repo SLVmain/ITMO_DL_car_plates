@@ -15,4 +15,5 @@ ITMO practice course
 1.Детекция номеров с помощью YOLO5S.
 2. Распознавание с помощью EasyOCR.
 
-
+проведены эксперименты с несколькими моделями и параметрами
+https://docs.google.com/spreadsheets/d/1K45Hrr3hAPtBvtdRnDXMV9NgRklXNdicz9WxE4VpS7Y/edit?usp=sharing
