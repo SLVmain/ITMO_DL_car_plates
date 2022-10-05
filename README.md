@@ -1,6 +1,10 @@
 # ITMO_DL_in_practice_01
 ITMO practice course
 
+Команда 9.
+
+Вопросы можно писать в телеграм: @dum_ai
+
 Выложены три блокнота jupiter Notebook с проектом "Распознавание российских номеров машин с видео".
 
 Данные взяты отсюда: https://www.kaggle.com/competitions/vkcv2022-contest-02-carplates 
